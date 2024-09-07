@@ -1,0 +1,16 @@
+.odd-numbers {
+    background-color: lightpink;
+    font-family: Verdana, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#special-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-special-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
