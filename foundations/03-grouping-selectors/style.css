@@ -1,0 +1,14 @@
+.i-best-button {
+    background-color: black;
+    color: white;
+}
+
+.no-i-best-button {
+    background-color: yellow;
+}
+
+.i-best-button,
+.no-i-best-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
