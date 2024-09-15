@@ -64,3 +64,11 @@ a {
   gap: 15px;
   margin-bottom: 8rem;
 }
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
